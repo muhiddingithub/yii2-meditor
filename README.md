@@ -41,8 +41,8 @@ Simple Usage
 echo \muhiddin\meditor\FroalaEditor::widget([
         'name'=>'name',
         'value'=>'',
-        'form'=>$form,// if has ActiveForm, else not set
-        'model'=>$mode, // if has model extend Model, else not set
+        'form'=>$form,// if has $form ActiveForm, else not set
+        'model'=>$model, // if has $model extend Model, else not set
         'options' => [
             'height' => '400px',
             'imageManagerPageSize' => 2
