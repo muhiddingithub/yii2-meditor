@@ -1,0 +1,20 @@
+{
+    "name": "muhiddingithub/yii2-meditor",
+    "description": "Yii2 publish editor using froala jquery",
+    "type": "yii2-extension",
+    "keywords": ["muhiddin","meditor","yii2","extension","editor","widget","froala","wysiwyg-editor","jquery"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Muxiddin Jumaniyazov",
+            "email": "hellomyhp@gmail.com"
+        }
+    ],
+
+   "minimum-stability":"dev",
+    "autoload": {
+        "psr-4": {
+            "muhiddin\\meditor\\": ""
+        }
+    }
+}
