@@ -1,0 +1,1 @@
+https://www.froala.com/wysiwyg-editor
